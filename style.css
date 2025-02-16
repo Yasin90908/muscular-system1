@@ -1,0 +1,95 @@
+
+body{
+    background-color: rgb(230, 243, 231) !important;
+    color: rgba(18, 54, 3, 0.712) !important;
+
+}
+.bold{
+    font-weight: bold;
+    color: rgb(7, 4, 31) !important;
+    text-align: left !important;
+    margin-left: 30px;
+}
+#first{
+    text-align: center !important;
+}
+#second{
+    text-align: center !important;
+}
+#info{
+    text-align: center !important;
+}
+#img1{
+    width: 300px;
+    height: 300px;
+}
+#ImgCont{
+    text-align: center !important;
+}
+.Muscular{
+ margin-top: 50px;
+ padding-top: 10px;
+}
+/*organs*/
+#organs1{
+    text-align: center !important;
+    margin-bottom:20px;
+    font-size: x-large;
+    margin-top: 10px;
+
+}
+.cards{
+   margin: auto !important;
+   margin-top: 10px !important;
+    width: 300px;
+    height: 500px;
+    background-color: rgb(5, 27, 3);
+    color: white;
+    border-radius: 0px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center !important;
+}
+.cards:hover{
+   transition: 1s;
+    border-radius: 10px;
+}
+#cardsimg{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+#infoc{
+    color: white !important;
+        color: white !important;
+        margin-top: 10PX;
+        text-align: left !important;
+font-size: small;
+}
+#bold2{
+    font-weight: bold;
+    color: rgb(117, 103, 228) !important;
+
+   
+}
+
+
+.card2{
+    width: 90%;
+    height: 500px;
+    border-radius: 10px;
+margin: auto !important;
+     width: 300px;
+     height: 600px;
+     background-color: rgb(5, 27, 3);
+     color: white;
+     padding-top: 30px;
+
+     text-align: center!important;
+}
+#infoc2{
+    text-align: left !important;
+    margin-left: 20px;
+    font-size: small;
+    margin-top: 20px;
+}
